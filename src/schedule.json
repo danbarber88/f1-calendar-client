@@ -1,0 +1,492 @@
+{
+  "raceData": {
+    "raceTable": {
+      "season": "2018",
+      "races": [
+        {
+          "season": "2018",
+          "round": "1",
+          "raceName": "Australian Grand Prix",
+          "circuit": {
+            "circuitName": "Albert Park Grand Prix Circuit",
+            "location": {
+              "lat": "-37.8497",
+              "long": "144.968",
+              "locality": "Melbourne",
+              "country": "Australia"
+            }
+          },
+          "lastWinner": "Vettel",
+          "date": "2018-03-25",
+          "times": {
+            "firstPractice": "2018-03-23 00:00:00",
+            "secondPractice": "2018-03-23 04:00:00",
+            "thirdPractice": "2018-03-24 02:00:00",
+            "qualifying": "2018-03-24 05:00:00",
+            "race": "2018-03-25 05:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "2",
+          "raceName": "Bahrain Grand Prix",
+          "circuit": {
+            "circuitName": "Bahrain International Circuit",
+            "location": {
+              "lat": "26.0325",
+              "long": "50.5106",
+              "locality": "Sakhir",
+              "country": "Bahrain"
+            }
+          },
+          "lastWinner": "Vettel",
+          "date": "2018-04-08",
+          "times": {
+            "firstPractice": "2018-04-06 11:00:00",
+            "secondPractice": "2018-04-06 15:00:00",
+            "thirdPractice": "2018-04-07 12:00:00",
+            "qualifying": "2018-04-07 15:00:00",
+            "race": "2018-04-08 15:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "3",
+          "raceName": "Chinese Grand Prix",
+          "circuit": {
+            "circuitName": "Shanghai International Circuit",
+            "location": {
+              "lat": "31.3389",
+              "long": "121.22",
+              "locality": "Shanghai",
+              "country": "China"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-04-15",
+          "times": {
+            "firstPractice": "2018-04-13 02:00:00",
+            "secondPractice": "2018-04-13 06:00:00",
+            "thirdPractice": "2018-04-14 03:00:00",
+            "qualifying": "2018-04-14 06:00:00",
+            "race": "2018-04-15 06:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "4",
+          "raceName": "Azerbaijan Grand Prix",
+          "circuit": {
+            "circuitName": "Baku City Circuit",
+            "location": {
+              "lat": "40.3725",
+              "long": "49.8533",
+              "locality": "Baku",
+              "country": "Azerbaijan"
+            }
+          },
+          "lastWinner": "Ricciardo",
+          "date": "2018-04-29",
+          "times": {
+            "firstPractice": "2018-04-27 09:00:00",
+            "secondPractice": "2018-04-27 13:00:00",
+            "thirdPractice": "2018-04-28 10:00:00",
+            "qualifying": "2018-04-28 13:00:00",
+            "race": "2018-04-29 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "5",
+          "raceName": "Spanish Grand Prix",
+          "circuit": {
+            "circuitName": "Circuit de Barcelona-Catalunya",
+            "location": {
+              "lat": "41.57",
+              "long": "2.26111",
+              "locality": "Montmeló",
+              "country": "Spain"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-05-13",
+          "times": {
+            "firstPractice": "2018-05-11 09:00:00",
+            "secondPractice": "2018-05-11 13:00:00",
+            "thirdPractice": "2018-05-12 10:00:00",
+            "qualifying": "2018-05-12 13:00:00",
+            "race": "2018-05-13 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "6",
+          "raceName": "Monaco Grand Prix",
+          "circuit": {
+            "circuitName": "Circuit de Monaco",
+            "location": {
+              "lat": "43.7347",
+              "long": "7.42056",
+              "locality": "Monte-Carlo",
+              "country": "Monaco"
+            }
+          },
+          "lastWinner": "Vettel",
+          "date": "2018-05-27",
+          "times": {
+            "firstPractice": "2018-05-25 09:00:00",
+            "secondPractice": "2018-05-25 13:00:00",
+            "thirdPractice": "2018-05-26 10:00:00",
+            "qualifying": "2018-05-26 13:00:00",
+            "race": "2018-05-27 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "7",
+          "raceName": "Canadian Grand Prix",
+          "circuit": {
+            "circuitName": "Circuit Gilles Villeneuve",
+            "location": {
+              "lat": "45.5",
+              "long": "-73.5228",
+              "locality": "Montreal",
+              "country": "Canada"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-06-10",
+          "times": {
+            "firstPractice": "2018-06-08 14:00:00",
+            "secondPractice": "2018-06-08 18:00:00",
+            "thirdPractice": "2018-06-09 15:00:00",
+            "qualifying": "2018-06-09 18:00:00",
+            "race": "2018-06-10 18:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "8",
+          "raceName": "French Grand Prix",
+          "circuit": {
+            "circuitName": "Circuit Paul Ricard",
+            "location": {
+              "lat": "43.2506",
+              "long": "5.79167",
+              "locality": "Le Castellet",
+              "country": "France"
+            }
+          },
+          "lastWinner": null,
+          "date": "2018-06-24",
+          "times": {
+            "firstPractice": "2018-06-22 10:00:00",
+            "secondPractice": "2018-06-22 14:00:00",
+            "thirdPractice": "2018-06-23 11:00:00",
+            "qualifying": "2018-06-23 14:00:00",
+            "race": "2018-06-24 14:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "9",
+          "raceName": "Austrian Grand Prix",
+          "circuit": {
+            "circuitName": "Red Bull Ring",
+            "location": {
+              "lat": "47.2197",
+              "long": "14.7647",
+              "locality": "Spielburg",
+              "country": "Austria"
+            }
+          },
+          "lastWinner": "Bottas",
+          "date": "2018-07-01",
+          "times": {
+            "firstPractice": "2018-06-29 09:00:00",
+            "secondPractice": "2018-06-29 13:00:00",
+            "thirdPractice": "2018-06-30 10:00:00",
+            "qualifying": "2018-06-30 13:00:00",
+            "race": "2018-07-01 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "10",
+          "raceName": "British Grand Prix",
+          "circuit": {
+            "circuitName": "Silverstone Circuit",
+            "location": {
+              "lat": "52.0786",
+              "long": "-1.01694",
+              "locality": "Silverstone",
+              "country": "UK"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-07-08",
+          "times": {
+            "firstPractice": "2018-07-06 09:00:00",
+            "secondPractice": "2018-07-06 13:00:00",
+            "thirdPractice": "2018-07-07 10:00:00",
+            "qualifying": "2018-07-07 13:00:00",
+            "race": "2018-07-08 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "11",
+          "raceName": "German Grand Prix",
+          "circuit": {
+            "circuitName": "Hockenheimring",
+            "location": {
+              "lat": "49.3278",
+              "long": "8.56583",
+              "locality": "Hockenheim",
+              "country": "Germany"
+            }
+          },
+          "lastWinner": null,
+          "date": "2018-07-22",
+          "times": {
+            "firstPractice": "2018-07-20 09:00:00",
+            "secondPractice": "2018-07-20 13:00:00",
+            "thirdPractice": "2018-07-21 10:00:00",
+            "qualifying": "2018-07-21 13:00:00",
+            "race": "2018-07-22 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "12",
+          "raceName": "Hungarian Grand Prix",
+          "circuit": {
+            "circuitName": "Hungaroring",
+            "location": {
+              "lat": "47.5789",
+              "long": "19.2486",
+              "locality": "Budapest",
+              "country": "Hungary"
+            }
+          },
+          "lastWinner": "Vettel",
+          "date": "2018-07-29",
+          "times": {
+            "firstPractice": "2018-07-27 09:00:00",
+            "secondPractice": "2018-07-27 13:00:00",
+            "thirdPractice": "2018-07-28 10:00:00",
+            "qualifying": "2018-07-28 13:00:00",
+            "race": "2018-07-29 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "13",
+          "raceName": "Belgian Grand Prix",
+          "circuit": {
+            "circuitName": "Circuit de Spa-Francorchamps",
+            "location": {
+              "lat": "50.4372",
+              "long": "5.97139",
+              "locality": "Spa",
+              "country": "Belgium"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-08-26",
+          "times": {
+            "firstPractice": "2018-08-24 09:00:00",
+            "secondPractice": "2018-08-24 13:00:00",
+            "thirdPractice": "2018-08-25 10:00:00",
+            "qualifying": "2018-08-25 13:00:00",
+            "race": "2018-08-26 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "14",
+          "raceName": "Italian Grand Prix",
+          "circuit": {
+            "circuitName": "Autodromo Nazionale di Monza",
+            "location": {
+              "lat": "45.6156",
+              "long": "9.28111",
+              "locality": "Monza",
+              "country": "Italy"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-09-02",
+          "times": {
+            "firstPractice": "2018-08-31 09:00:00",
+            "secondPractice": "2018-08-31 13:00:00",
+            "thirdPractice": "2018-09-04 10:00:00",
+            "qualifying": "2018-09-04 13:00:00",
+            "race": "2018-09-02 13:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "15",
+          "raceName": "Singapore Grand Prix",
+          "circuit": {
+            "circuitName": "Marina Bay Street Circuit",
+            "location": {
+              "lat": "1.2914",
+              "long": "103.864",
+              "locality": "Marina Bay",
+              "country": "Singapore"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-09-16",
+          "times": {
+            "firstPractice": "2018-09-14 08:30:00",
+            "secondPractice": "2018-09-14 12:30:00",
+            "thirdPractice": "2018-09-15 10:00:00",
+            "qualifying": "2018-09-15 13:00:00",
+            "race": "2018-09-16 12:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "16",
+          "raceName": "Russian Grand Prix",
+          "circuit": {
+            "circuitName": "Sochi Autodrom",
+            "location": {
+              "lat": "43.4057",
+              "long": "39.9578",
+              "locality": "Sochi",
+              "country": "Russia"
+            }
+          },
+          "lastWinner": "Bottas",
+          "date": "2018-09-30",
+          "times": {
+            "firstPractice": "2018-09-28 08:00:00",
+            "secondPractice": "2018-09-28 12:00:00",
+            "thirdPractice": "2018-09-29 09:00:00",
+            "qualifying": "2018-09-29 12:00:00",
+            "race": "2018-09-30 11:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "17",
+          "raceName": "Japanese Grand Prix",
+          "circuit": {
+            "circuitName": "Suzuka Circuit",
+            "location": {
+              "lat": "34.8431",
+              "long": "136.541",
+              "locality": "Suzuka",
+              "country": "Japan"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-10-07",
+          "times": {
+            "firstPractice": "2018-10-05 01:00:00",
+            "secondPractice": "2018-10-05 05:00:00",
+            "thirdPractice": "2018-10-06 03:00:00",
+            "qualifying": "2018-10-06 06:00:00",
+            "race": "2018-10-07 05:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "18",
+          "raceName": "United States Grand Prix",
+          "circuit": {
+            "circuitName": "Circuit of the Americas",
+            "location": {
+              "lat": "30.1328",
+              "long": "-97.6411",
+              "locality": "Austin",
+              "country": "USA"
+            }
+          },
+          "lastWinner": "Hamilton",
+          "date": "2018-10-21",
+          "times": {
+            "firstPractice": "2018-10-05 15:00:00",
+            "secondPractice": "2018-10-05 19:00:00",
+            "thirdPractice": "2018-10-06 18:00:00",
+            "qualifying": "2018-10-06 21:00:00",
+            "race": "2018-10-07 18:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "19",
+          "raceName": "Mexican Grand Prix",
+          "circuit": {
+            "circuitName": "Autódromo Hermanos Rodríguez",
+            "location": {
+              "lat": "19.4042",
+              "long": "-99.0907",
+              "locality": "Mexico City",
+              "country": "Mexico"
+            }
+          },
+          "lastWinner": "Verstappen",
+          "date": "2018-10-28",
+          "times": {
+            "firstPractice": "2018-10-26 15:00:00",
+            "secondPractice": "2018-10-26 19:00:00",
+            "thirdPractice": "2018-10-27 15:00:00",
+            "qualifying": "2018-10-27 18:00:00",
+            "race": "2018-10-28 19:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "20",
+          "raceName": "Brazilian Grand Prix",
+          "circuit": {
+            "circuitName": "Autódromo José Carlos Pace",
+            "location": {
+              "lat": "-23.7036",
+              "long": "-46.6997",
+              "locality": "São Paulo",
+              "country": "Brazil"
+            }
+          },
+          "lastWinner": "Vettel",
+          "date": "2018-11-11",
+          "times": {
+            "firstPractice": "2018-11-09 13:00:00",
+            "secondPractice": "2018-11-09 17:00:00",
+            "thirdPractice": "2018-11-10 14:00:00",
+            "qualifying": "2018-11-10 17:00:00",
+            "race": "2018-11-11 17:10:00"
+          }
+        },
+        {
+          "season": "2018",
+          "round": "21",
+          "raceName": "Abu Dhabi Grand Prix",
+          "circuit": {
+            "circuitName": "Yas Marina Circuit",
+            "location": {
+              "lat": "24.4672",
+              "long": "54.6031",
+              "locality": "Abu Dhabi",
+              "country": "UAE"
+            }
+          },
+          "lastWinner": "Bottas",
+          "date": "2018-11-25",
+          "times": {
+            "firstPractice": "2018-11-23 08:00:00",
+            "secondPractice": "2018-11-23 12:00:00",
+            "thirdPractice": "2018-11-24 09:00:00",
+            "qualifying": "2018-11-24 12:00:00",
+            "race": "2018-11-25 12:10:00"
+          }
+        }
+      ]
+    }
+  }
+}

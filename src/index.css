@@ -1,0 +1,394 @@
+@font-face {
+  font-family: "Formula1-Display-Regular";
+  src: url("fonts/Formula1-Display-Regular.eot");
+  src: url("fonts/Formula1-Display-Regular.woff2") format("woff2"),
+    url("fonts/Formula1-Display-Regular.woff") format("woff"),
+    url("fonts/Formula1-Display-Regular.ttf") format("truetype"),
+    url("fonts/Formula1-Display-Regular.svg#Formula1-Display-Regular")
+      format("svg"),
+    url("fonts/Formula1-Display-Regular.eot?#iefix") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-image: url("img/ham-vet.jpg");
+  background-repeat: no-repeat;
+  background-size: 110%;
+  background-position: -30px -20px;
+  background-attachment: fixed;
+}
+
+.App {
+  height: 100%;
+  background: linear-gradient(180deg, rgba(21, 21, 30, 0) 20px, #15151e 10%);
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 5;
+  width: 100%;
+  margin-top: 60px;
+}
+
+#logo {
+  width: 50%;
+}
+
+h1 {
+  font-family: "Formula1-Display-Regular";
+  font-size: 4vw;
+}
+
+.calendar-text {
+  font-weight: 900;
+  line-height: normal;
+  font-size: 12px;
+  letter-spacing: 0.75em;
+  margin-top: 15px;
+  color: #ffffff;
+}
+
+.RaceContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0 40px 0;
+}
+
+.Race {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #38383f;
+  color: #fff;
+  width: 90%;
+  margin-bottom: 2px;
+  border-right: 6px solid rgba(21, 21, 30, 0.7);
+}
+
+.expanded {
+  align-items: start;
+}
+
+.main-info {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 15px;
+}
+
+.track-info-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.track {
+  width: 60%;
+  padding-top: 10px;
+  align-self: center;
+}
+
+.track img {
+  width: 85%;
+  padding-left: 5%;
+}
+
+.info-square-container {
+  font-family: "Formula1-Display-Regular";
+  width: 40%;
+  display: flex;
+  align-items: center;
+}
+
+.last-winner {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  background-image: url("img/trophy.svg");
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: center;
+}
+
+/* .trophy {
+  padding: 0 10px;
+} */
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-container h3 {
+  margin: 0 0 3px 0;
+  letter-spacing: 0.15em;
+  font-size: 2.8vw;
+  font-weight: normal;
+  padding-bottom: 1px;
+  border-bottom: 1px solid #fff;
+  z-index: 100;
+}
+
+.text-container p {
+  margin: 5px 0 0 0;
+  letter-spacing: 0.1em;
+  font-size: 2.4vw;
+  z-index: 100;
+}
+
+.fastest-lap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.start-times {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.start-times div:nth-child(even) {
+  background-color: #38383f;
+}
+
+.start-times div {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #15151e;
+  font-size: 12px;
+  line-height: 12px;
+  padding: 0 15px;
+}
+
+.start-times div p {
+  margin: 5px 0;
+}
+
+.start-times div p span {
+  font-size: 10px;
+  margin: 0 5px;
+}
+
+.session {
+  width: 98px;
+  letter-spacing: 0.05em;
+}
+
+.times {
+  display: flex;
+  justify-content: flex-end;
+  width: 121px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.arrow {
+  margin: 19px 0;
+}
+
+.open {
+  transform: rotate(90deg);
+}
+
+.location {
+  font-size: 12px;
+  padding: 0 0 0 10px;
+  margin: 19px 0;
+  font-weight: 300;
+  letter-spacing: 0.125em;
+  line-height: 12px;
+}
+
+.text-right {
+  margin-left: auto;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.podium {
+  font-family: "Formula1-Display-Regular";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 200px;
+  background-image: url("img/podium.svg");
+  background-repeat: no-repeat;
+  background-size: 225px;
+  background-position: center;
+}
+
+.drivers {
+  width: 225px;
+  height: 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.first {
+  position: relative;
+  top: -3px;
+  text-align: center;
+  width: 55px;
+  /* margin: 0 0 30px 3px; */
+}
+
+.second {
+  position: relative;
+  top: 20px;
+  text-align: center;
+  width: 50px;
+  /* margin: 15px 0 0 0; */
+}
+
+.third {
+  position: relative;
+  top: 37.5px;
+  text-align: center;
+  width: 50px;
+  /* margin: 26px 0 0 0; */
+}
+
+.podium-name {
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.podium-place {
+  font-size: 12px;
+  font-weight: 800;
+  color: #15151e;
+  margin: 0 0 8px 0;
+  line-height: 13px;
+}
+
+.HAM,
+.BOT {
+  border-right: 6px solid rgb(0, 207, 186);
+}
+
+.VET,
+.RAI {
+  border-right: 6px solid rgb(195, 0, 0);
+}
+
+.RIC,
+.VER {
+  border-right: 6px solid rgb(0, 0, 125);
+}
+
+.fightforfive {
+  display: none;
+  font-size: 3.25vw;
+  color: #fff;
+  position: fixed;
+  font-family: "Formula1-Display-Regular";
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tr {
+  right: 2%;
+  top: 30px;
+}
+
+.bl {
+  left: 2%;
+  bottom: 30px;
+}
+
+/* everything over */
+@media (min-width: 600px) {
+  .App {
+    background: linear-gradient(180deg, rgba(21, 21, 30, 0) 20px, #15151e 20%);
+  }
+
+  .text-container h3 {
+    font-size: 3vw;
+  }
+
+  .text-container p {
+    font-size: 2.25vw;
+  }
+}
+
+@media (min-width: 800px) {
+  .text-container h3 {
+    font-size: 2vw;
+  }
+
+  .text-container p {
+    font-size: 1.5vw;
+  }
+}
+
+@media (min-width: 1150px) {
+  body {
+    /* background-image: none; */
+    background-color: #15151e;
+    width: 35%;
+    margin: 0 auto;
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    background-position: 50% 0px;
+  }
+
+  h1 {
+    font-size: 1.75vw;
+  }
+
+  .App {
+    background: #15151e;
+    border-left: 5px solid #fff;
+    border-right: 5px solid #fff;
+  }
+
+  .logo-container {
+    margin: 0;
+    padding-top: 60px;
+  }
+
+  .fightforfive {
+    display: block;
+  }
+
+  .text-container h3 {
+    font-size: 0.9vw;
+  }
+
+  .text-container p {
+    font-size: 0.75vw;
+  }
+}
+
+@media (min-width: 1650px) {
+  body {
+    background-position: 0px 0px;
+  }
+}
