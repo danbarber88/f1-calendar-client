@@ -16,7 +16,8 @@ class RaceContainer extends Component {
     super(props);
 
     this.state = {
-      schedule: schedule
+      schedule: schedule,
+      timezone: ""
     };
 
     this.postRaceResult = this.postRaceResult.bind(this);
