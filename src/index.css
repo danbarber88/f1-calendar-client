@@ -31,13 +31,21 @@ body {
   background: linear-gradient(180deg, rgba(21, 21, 30, 0) 20px, #15151e 10%);
 }
 
+.timezone {
+  color: #fff;
+  font-weight: 500;
+  margin: 10px 0 50px 0;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
 .logo-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   z-index: 5;
   width: 100%;
-  margin-top: 60px;
 }
 
 #logo {
@@ -368,11 +376,6 @@ h1 {
     background: #15151e;
     border-left: 5px solid #fff;
     border-right: 5px solid #fff;
-  }
-
-  .logo-container {
-    margin: 0;
-    padding-top: 60px;
   }
 
   .fightforfive {

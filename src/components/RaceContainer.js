@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Race from "./Race";
-import moment from "moment";
+import moment from "moment-timezone";
 import { graphql, compose } from "react-apollo";
 import arrow from "../img/arrow.svg";
 import schedule from "../schedule";
@@ -17,7 +17,7 @@ class RaceContainer extends Component {
 
     this.state = {
       schedule: schedule,
-      timezone: ""
+      timezone: moment.tz.guess()
     };
 
     this.postRaceResult = this.postRaceResult.bind(this);
@@ -66,6 +66,7 @@ class RaceContainer extends Component {
       } else {
         return (
           <Race
+            timezone={this.state.timezone}
             race={race}
             isNextRace={this.nextRace() === race.round ? true : false}
             postRaceResult={this.postRaceResult}

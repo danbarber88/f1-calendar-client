@@ -24,7 +24,7 @@ class Race extends Component {
   }
 
   RaceResult() {
-    // no result and the race date has passed
+    // no result and the race time has passed
     if (!this.props.result && moment() > moment(this.props.race.times.race)) {
       // if an hour has elapsed since last fetch then we are free to do it again
       if (
@@ -53,7 +53,7 @@ class Race extends Component {
 
   render() {
     const { country, locality } = this.props.race.circuit.location;
-    const date = this.props.race.date;
+    const date = this.props.race.times.race;
     const trackImg = this.props.race.circuit.location.country;
 
     if (this.state.expanded) {
@@ -68,7 +68,9 @@ class Race extends Component {
             <p className="text-right">
               {this.props.result
                 ? this.props.result.first
-                : moment(date).format("DD MMM")}
+                : moment(date)
+                    .tz(this.props.timezone)
+                    .format("DD MMM")}
             </p>
           </div>
           <div className="track-info-container">
@@ -84,7 +86,10 @@ class Race extends Component {
           {this.props.result ? (
             <Podium result={this.props.result} />
           ) : (
-            <Sessions times={this.props.race.times} />
+            <Sessions
+              timezone={this.props.timezone}
+              times={this.props.race.times}
+            />
           )}
         </div>
       );
