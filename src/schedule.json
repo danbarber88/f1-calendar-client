@@ -19,11 +19,11 @@
           "lastWinner": "Vettel",
           "date": "2018-03-25",
           "times": {
-            "firstPractice": "2018-03-23 00:00:00",
-            "secondPractice": "2018-03-23 04:00:00",
-            "thirdPractice": "2018-03-24 02:00:00",
-            "qualifying": "2018-03-24 05:00:00",
-            "race": "2018-03-25 05:10:00"
+            "firstPractice": "2018-03-23 00:00:00Z",
+            "secondPractice": "2018-03-23 04:00:00Z",
+            "thirdPractice": "2018-03-24 02:00:00Z",
+            "qualifying": "2018-03-24 05:00:00Z",
+            "race": "2018-03-25 05:10:00Z"
           }
         },
         {
@@ -42,11 +42,11 @@
           "lastWinner": "Vettel",
           "date": "2018-04-08",
           "times": {
-            "firstPractice": "2018-04-06 11:00:00",
-            "secondPractice": "2018-04-06 15:00:00",
-            "thirdPractice": "2018-04-07 12:00:00",
-            "qualifying": "2018-04-07 15:00:00",
-            "race": "2018-04-08 15:10:00"
+            "firstPractice": "2018-04-06 11:00:00Z",
+            "secondPractice": "2018-04-06 15:00:00Z",
+            "thirdPractice": "2018-04-07 12:00:00Z",
+            "qualifying": "2018-04-07 15:00:00Z",
+            "race": "2018-04-08 15:10:00Z"
           }
         },
         {
@@ -65,11 +65,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-04-15",
           "times": {
-            "firstPractice": "2018-04-13 02:00:00",
-            "secondPractice": "2018-04-13 06:00:00",
-            "thirdPractice": "2018-04-14 03:00:00",
-            "qualifying": "2018-04-14 06:00:00",
-            "race": "2018-04-15 06:10:00"
+            "firstPractice": "2018-04-13 02:00:00Z",
+            "secondPractice": "2018-04-13 06:00:00Z",
+            "thirdPractice": "2018-04-14 03:00:00Z",
+            "qualifying": "2018-04-14 06:00:00Z",
+            "race": "2018-04-15 06:10:00Z"
           }
         },
         {
@@ -88,11 +88,11 @@
           "lastWinner": "Ricciardo",
           "date": "2018-04-29",
           "times": {
-            "firstPractice": "2018-04-27 09:00:00",
-            "secondPractice": "2018-04-27 13:00:00",
-            "thirdPractice": "2018-04-28 10:00:00",
-            "qualifying": "2018-04-28 13:00:00",
-            "race": "2018-04-29 13:10:00"
+            "firstPractice": "2018-04-27 09:00:00Z",
+            "secondPractice": "2018-04-27 13:00:00Z",
+            "thirdPractice": "2018-04-28 10:00:00Z",
+            "qualifying": "2018-04-28 13:00:00Z",
+            "race": "2018-04-29 13:10:00Z"
           }
         },
         {
@@ -111,11 +111,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-05-13",
           "times": {
-            "firstPractice": "2018-05-11 09:00:00",
-            "secondPractice": "2018-05-11 13:00:00",
-            "thirdPractice": "2018-05-12 10:00:00",
-            "qualifying": "2018-05-12 13:00:00",
-            "race": "2018-05-13 13:10:00"
+            "firstPractice": "2018-05-11 09:00:00Z",
+            "secondPractice": "2018-05-11 13:00:00Z",
+            "thirdPractice": "2018-05-12 10:00:00Z",
+            "qualifying": "2018-05-12 13:00:00Z",
+            "race": "2018-05-13 13:10:00Z"
           }
         },
         {
@@ -134,11 +134,11 @@
           "lastWinner": "Vettel",
           "date": "2018-05-27",
           "times": {
-            "firstPractice": "2018-05-25 09:00:00",
-            "secondPractice": "2018-05-25 13:00:00",
-            "thirdPractice": "2018-05-26 10:00:00",
-            "qualifying": "2018-05-26 13:00:00",
-            "race": "2018-05-27 13:10:00"
+            "firstPractice": "2018-05-25 09:00:00Z",
+            "secondPractice": "2018-05-25 13:00:00Z",
+            "thirdPractice": "2018-05-26 10:00:00Z",
+            "qualifying": "2018-05-26 13:00:00Z",
+            "race": "2018-05-27 13:10:00Z"
           }
         },
         {
@@ -157,11 +157,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-06-10",
           "times": {
-            "firstPractice": "2018-06-08 14:00:00",
-            "secondPractice": "2018-06-08 18:00:00",
-            "thirdPractice": "2018-06-09 15:00:00",
-            "qualifying": "2018-06-09 18:00:00",
-            "race": "2018-06-10 18:10:00"
+            "firstPractice": "2018-06-08 14:00:00Z",
+            "secondPractice": "2018-06-08 18:00:00Z",
+            "thirdPractice": "2018-06-09 15:00:00Z",
+            "qualifying": "2018-06-09 18:00:00Z",
+            "race": "2018-06-10 18:10:00Z"
           }
         },
         {
@@ -180,11 +180,11 @@
           "lastWinner": null,
           "date": "2018-06-24",
           "times": {
-            "firstPractice": "2018-06-22 10:00:00",
-            "secondPractice": "2018-06-22 14:00:00",
-            "thirdPractice": "2018-06-23 11:00:00",
-            "qualifying": "2018-06-23 14:00:00",
-            "race": "2018-06-24 14:10:00"
+            "firstPractice": "2018-06-22 10:00:00Z",
+            "secondPractice": "2018-06-22 14:00:00Z",
+            "thirdPractice": "2018-06-23 11:00:00Z",
+            "qualifying": "2018-06-23 14:00:00Z",
+            "race": "2018-06-24 14:10:00Z"
           }
         },
         {
@@ -203,11 +203,11 @@
           "lastWinner": "Bottas",
           "date": "2018-07-01",
           "times": {
-            "firstPractice": "2018-06-29 09:00:00",
-            "secondPractice": "2018-06-29 13:00:00",
-            "thirdPractice": "2018-06-30 10:00:00",
-            "qualifying": "2018-06-30 13:00:00",
-            "race": "2018-07-01 13:10:00"
+            "firstPractice": "2018-06-29 09:00:00Z",
+            "secondPractice": "2018-06-29 13:00:00Z",
+            "thirdPractice": "2018-06-30 10:00:00Z",
+            "qualifying": "2018-06-30 13:00:00Z",
+            "race": "2018-07-01 13:10:00Z"
           }
         },
         {
@@ -226,11 +226,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-07-08",
           "times": {
-            "firstPractice": "2018-07-06 09:00:00",
-            "secondPractice": "2018-07-06 13:00:00",
-            "thirdPractice": "2018-07-07 10:00:00",
-            "qualifying": "2018-07-07 13:00:00",
-            "race": "2018-07-08 13:10:00"
+            "firstPractice": "2018-07-06 09:00:00Z",
+            "secondPractice": "2018-07-06 13:00:00Z",
+            "thirdPractice": "2018-07-07 10:00:00Z",
+            "qualifying": "2018-07-07 13:00:00Z",
+            "race": "2018-07-08 13:10:00Z"
           }
         },
         {
@@ -249,11 +249,11 @@
           "lastWinner": null,
           "date": "2018-07-22",
           "times": {
-            "firstPractice": "2018-07-20 09:00:00",
-            "secondPractice": "2018-07-20 13:00:00",
-            "thirdPractice": "2018-07-21 10:00:00",
-            "qualifying": "2018-07-21 13:00:00",
-            "race": "2018-07-22 13:10:00"
+            "firstPractice": "2018-07-20 09:00:00Z",
+            "secondPractice": "2018-07-20 13:00:00Z",
+            "thirdPractice": "2018-07-21 10:00:00Z",
+            "qualifying": "2018-07-21 13:00:00Z",
+            "race": "2018-07-22 13:10:00Z"
           }
         },
         {
@@ -272,11 +272,11 @@
           "lastWinner": "Vettel",
           "date": "2018-07-29",
           "times": {
-            "firstPractice": "2018-07-27 09:00:00",
-            "secondPractice": "2018-07-27 13:00:00",
-            "thirdPractice": "2018-07-28 10:00:00",
-            "qualifying": "2018-07-28 13:00:00",
-            "race": "2018-07-29 13:10:00"
+            "firstPractice": "2018-07-27 09:00:00Z",
+            "secondPractice": "2018-07-27 13:00:00Z",
+            "thirdPractice": "2018-07-28 10:00:00Z",
+            "qualifying": "2018-07-28 13:00:00Z",
+            "race": "2018-07-29 13:10:00Z"
           }
         },
         {
@@ -295,11 +295,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-08-26",
           "times": {
-            "firstPractice": "2018-08-24 09:00:00",
-            "secondPractice": "2018-08-24 13:00:00",
-            "thirdPractice": "2018-08-25 10:00:00",
-            "qualifying": "2018-08-25 13:00:00",
-            "race": "2018-08-26 13:10:00"
+            "firstPractice": "2018-08-24 09:00:00Z",
+            "secondPractice": "2018-08-24 13:00:00Z",
+            "thirdPractice": "2018-08-25 10:00:00Z",
+            "qualifying": "2018-08-25 13:00:00Z",
+            "race": "2018-08-26 13:10:00Z"
           }
         },
         {
@@ -318,11 +318,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-09-02",
           "times": {
-            "firstPractice": "2018-08-31 09:00:00",
-            "secondPractice": "2018-08-31 13:00:00",
-            "thirdPractice": "2018-09-04 10:00:00",
-            "qualifying": "2018-09-04 13:00:00",
-            "race": "2018-09-02 13:10:00"
+            "firstPractice": "2018-08-31 09:00:00Z",
+            "secondPractice": "2018-08-31 13:00:00Z",
+            "thirdPractice": "2018-09-01 10:00:00Z",
+            "qualifying": "2018-09-01 13:00:00Z",
+            "race": "2018-09-02 13:10:00Z"
           }
         },
         {
@@ -341,11 +341,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-09-16",
           "times": {
-            "firstPractice": "2018-09-14 08:30:00",
-            "secondPractice": "2018-09-14 12:30:00",
-            "thirdPractice": "2018-09-15 10:00:00",
-            "qualifying": "2018-09-15 13:00:00",
-            "race": "2018-09-16 12:10:00"
+            "firstPractice": "2018-09-14 08:30:00Z",
+            "secondPractice": "2018-09-14 12:30:00Z",
+            "thirdPractice": "2018-09-15 10:00:00Z",
+            "qualifying": "2018-09-15 13:00:00Z",
+            "race": "2018-09-16 12:10:00Z"
           }
         },
         {
@@ -364,11 +364,11 @@
           "lastWinner": "Bottas",
           "date": "2018-09-30",
           "times": {
-            "firstPractice": "2018-09-28 08:00:00",
-            "secondPractice": "2018-09-28 12:00:00",
-            "thirdPractice": "2018-09-29 09:00:00",
-            "qualifying": "2018-09-29 12:00:00",
-            "race": "2018-09-30 11:10:00"
+            "firstPractice": "2018-09-28 08:00:00Z",
+            "secondPractice": "2018-09-28 12:00:00Z",
+            "thirdPractice": "2018-09-29 09:00:00Z",
+            "qualifying": "2018-09-29 12:00:00Z",
+            "race": "2018-09-30 11:10:00Z"
           }
         },
         {
@@ -387,11 +387,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-10-07",
           "times": {
-            "firstPractice": "2018-10-05 01:00:00",
-            "secondPractice": "2018-10-05 05:00:00",
-            "thirdPractice": "2018-10-06 03:00:00",
-            "qualifying": "2018-10-06 06:00:00",
-            "race": "2018-10-07 05:10:00"
+            "firstPractice": "2018-10-05 01:00:00Z",
+            "secondPractice": "2018-10-05 05:00:00Z",
+            "thirdPractice": "2018-10-06 03:00:00Z",
+            "qualifying": "2018-10-06 06:00:00Z",
+            "race": "2018-10-07 05:10:00Z"
           }
         },
         {
@@ -410,11 +410,11 @@
           "lastWinner": "Hamilton",
           "date": "2018-10-21",
           "times": {
-            "firstPractice": "2018-10-05 15:00:00",
-            "secondPractice": "2018-10-05 19:00:00",
-            "thirdPractice": "2018-10-06 18:00:00",
-            "qualifying": "2018-10-06 21:00:00",
-            "race": "2018-10-07 18:10:00"
+            "firstPractice": "2018-10-05 15:00:00Z",
+            "secondPractice": "2018-10-05 19:00:00Z",
+            "thirdPractice": "2018-10-06 18:00:00Z",
+            "qualifying": "2018-10-06 21:00:00Z",
+            "race": "2018-10-07 18:10:00Z"
           }
         },
         {
@@ -433,11 +433,11 @@
           "lastWinner": "Verstappen",
           "date": "2018-10-28",
           "times": {
-            "firstPractice": "2018-10-26 15:00:00",
-            "secondPractice": "2018-10-26 19:00:00",
-            "thirdPractice": "2018-10-27 15:00:00",
-            "qualifying": "2018-10-27 18:00:00",
-            "race": "2018-10-28 19:10:00"
+            "firstPractice": "2018-10-26 15:00:00Z",
+            "secondPractice": "2018-10-26 19:00:00Z",
+            "thirdPractice": "2018-10-27 15:00:00Z",
+            "qualifying": "2018-10-27 18:00:00Z",
+            "race": "2018-10-28 19:10:00Z"
           }
         },
         {
@@ -456,11 +456,11 @@
           "lastWinner": "Vettel",
           "date": "2018-11-11",
           "times": {
-            "firstPractice": "2018-11-09 13:00:00",
-            "secondPractice": "2018-11-09 17:00:00",
-            "thirdPractice": "2018-11-10 14:00:00",
-            "qualifying": "2018-11-10 17:00:00",
-            "race": "2018-11-11 17:10:00"
+            "firstPractice": "2018-11-09 13:00:00Z",
+            "secondPractice": "2018-11-09 17:00:00Z",
+            "thirdPractice": "2018-11-10 14:00:00Z",
+            "qualifying": "2018-11-10 17:00:00Z",
+            "race": "2018-11-11 17:10:00Z"
           }
         },
         {
@@ -479,11 +479,11 @@
           "lastWinner": "Bottas",
           "date": "2018-11-25",
           "times": {
-            "firstPractice": "2018-11-23 08:00:00",
-            "secondPractice": "2018-11-23 12:00:00",
-            "thirdPractice": "2018-11-24 09:00:00",
-            "qualifying": "2018-11-24 12:00:00",
-            "race": "2018-11-25 12:10:00"
+            "firstPractice": "2018-11-23 08:00:00Z",
+            "secondPractice": "2018-11-23 12:00:00Z",
+            "thirdPractice": "2018-11-24 09:00:00Z",
+            "qualifying": "2018-11-24 12:00:00Z",
+            "race": "2018-11-25 12:10:00Z"
           }
         }
       ]
