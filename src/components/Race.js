@@ -6,6 +6,7 @@ import moment from "moment";
 import arrow from "../img/arrow.svg";
 import { graphql } from "react-apollo";
 import { updateLastFetchMutation } from "../queries/queries";
+import "../drivers.css";
 
 import * as tracks from "../importTracks.js";
 

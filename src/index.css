@@ -306,21 +306,6 @@ h1 {
   line-height: 13px;
 }
 
-.HAM,
-.BOT {
-  border-right: 6px solid rgb(0, 207, 186);
-}
-
-.VET,
-.RAI {
-  border-right: 6px solid rgb(195, 0, 0);
-}
-
-.RIC,
-.VER {
-  border-right: 6px solid rgb(0, 0, 125);
-}
-
 .fightforfive {
   display: none;
   font-size: 3.25vw;
