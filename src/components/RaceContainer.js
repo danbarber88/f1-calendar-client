@@ -95,7 +95,12 @@ class RaceContainer extends Component {
   }
 
   render() {
-    return <div className="RaceContainer">{this.displayRaces()}</div>;
+    return (
+      <div className="RaceContainer">
+        {this.displayRaces()}
+        <div className="attribution">Created with use of the Ergast F1 API</div>
+      </div>
+    );
   }
 }
 

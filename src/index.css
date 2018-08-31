@@ -70,7 +70,13 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 10px 0 40px 0;
+  padding: 10px 0 0 0;
+}
+
+.attribution {
+  font-size: 16px;
+  padding: 15px 0;
+  color: #38383f;
 }
 
 .Race {
@@ -83,10 +89,12 @@ h1 {
   width: 90%;
   margin-bottom: 2px;
   border-right: 6px solid rgba(21, 21, 30, 0.7);
+  user-select: none;
 }
 
 .expanded {
   align-items: start;
+  cursor: pointer;
 }
 
 .main-info {
