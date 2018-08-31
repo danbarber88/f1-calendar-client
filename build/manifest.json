@@ -1,0 +1,15 @@
+{
+  "name": "F1 Calendar - 2018",
+  "short_name": "F1 Calendar",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
