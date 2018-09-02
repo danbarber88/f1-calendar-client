@@ -44,12 +44,7 @@ class RaceContainer extends Component {
 
   nextRace() {
     let nextRace = this.state.schedule.raceData.raceTable.races.find(race => {
-<<<<<<< HEAD
-      console.log(race);
       let raceDate = moment(race.times.race);
-=======
-      let raceDate = moment(race.times.date);
->>>>>>> b5f39a9b7592513ff758c65e0530fe2ee93d4729
       let now = moment();
       return raceDate >= now;
     });
