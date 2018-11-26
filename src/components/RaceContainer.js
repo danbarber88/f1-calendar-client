@@ -48,7 +48,7 @@ class RaceContainer extends Component {
       let now = moment();
       return raceDate >= now;
     });
-    return nextRace.round;
+    if(nextRace) return nextRace.round;
   }
 
   displayRaces() {
