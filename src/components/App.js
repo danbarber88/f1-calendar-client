@@ -25,14 +25,12 @@ class App extends Component {
   render() {
     return (
       <ApolloProvider client={client}>
-        <div className="fightforfive tr">#FightForFive</div>
-        <div className="fightforfive bl">#FightForFive</div>
         <div className="App">
           <div className="logo-container">
             <p className="timezone">{this.userTimezone()}</p>
             <img id="logo" src={logo} alt="Formula 1 logo" />
             <div className="calendar-text">
-              <h1>2018 CALENDAR</h1>
+              <h1>2019 CALENDAR</h1>
             </div>
           </div>
           <RaceContainer />

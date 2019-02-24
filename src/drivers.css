@@ -1,59 +1,59 @@
 /* Mercedes */
 .HAM,
 .BOT {
-  border-right: 6px solid rgb(0, 207, 186);
+  border-right: 6px solid rgb(0, 210, 190);
 }
 
 /* Ferrari */
 .VET,
-.RAI {
-  border-right: 6px solid rgb(195, 0, 0);
+.LEC {
+  border-right: 6px solid rgb(220,0,0);
 }
 
 /* Red Bull */
-.RIC,
-.VER {
-  border-right: 6px solid rgb(0, 0, 125);
+.VER,
+.GAS {
+  border-right: 6px solid rgb(30,65,255);
 }
 
 /* Renault */
 .HUL,
-.SAI {
-  border-right: 6px solid rgb(255, 216, 0);
+.RIC {
+  border-right: 6px solid rgb(255,245,0);
 }
 
 /* Haas */
 .GRO,
 .MAG {
-  border-right: 6px solid rgb(108, 0, 0);
+  border-right: 6px solid rgb(240,215,135);
 }
 
 /* McLaren */
-.ALO,
-.VAN {
-  border-right: 6px solid rgb(255, 123, 8);
+.SAI,
+.NOR {
+  border-right: 6px solid rgb(255,135,0);
 }
 
 /* Toro Rosso */
-.GAS,
-.HAR {
-  border-right: 6px solid rgb(0, 0, 255);
+.KVY,
+.ALB {
+  border-right: 6px solid rgb(70,155,255);
 }
 
-/* Sauber */
-.ERI,
-.LEC {
-  border-right: 6px solid rgb(0, 110, 255);
+/* Alfa Romeo */
+.RAI,
+.GIO {
+  border-right: 6px solid rgb(155,0,0);
 }
 
-/* Force India */
+/* Racing Point*/
 .PER,
-.OCO {
-  border-right: 6px solid rgb(255, 128, 199);
+.STR {
+  border-right: 6px solid rgb(245,150,200);
 }
 
 /* Williams */
-.STR,
-.SIR {
+.RUS,
+.KUB {
   border-right: 6px solid rgb(255, 255, 255);
 }

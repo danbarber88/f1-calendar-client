@@ -306,25 +306,6 @@ h1 {
   line-height: 13px;
 }
 
-.fightforfive {
-  display: none;
-  font-size: 3.25vw;
-  color: #fff;
-  position: fixed;
-  font-family: "Formula1-Display-Regular";
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.tr {
-  right: 2%;
-  top: 30px;
-}
-
-.bl {
-  left: 2%;
-  bottom: 30px;
-}
-
 /* everything over */
 @media (min-width: 600px) {
   .App {
@@ -369,10 +350,6 @@ h1 {
     background: #15151e;
     border-left: 5px solid #fff;
     border-right: 5px solid #fff;
-  }
-
-  .fightforfive {
-    display: block;
   }
 
   .text-container h3 {
