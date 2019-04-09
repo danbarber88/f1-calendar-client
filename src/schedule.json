@@ -42,11 +42,11 @@
           "lastWinner": "Vettel",
           "date": "2019-03-31",
           "times": {
-            "firstPractice": "2019-03-29 11:00:00Z",
-            "secondPractice": "2019-03-29 15:00:00Z",
-            "thirdPractice": "2019-03-30 12:00:00Z",
-            "qualifying": "2019-03-30 15:00:00Z",
-            "race": "2019-03-31 16:10:00Z"
+            "firstPractice": "2019-03-29 10:00:00Z",
+            "secondPractice": "2019-03-29 14:00:00Z",
+            "thirdPractice": "2019-03-30 11:00:00Z",
+            "qualifying": "2019-03-30 14:00:00Z",
+            "race": "2019-03-31 15:10:00Z"
           }
         },
         {
@@ -65,11 +65,11 @@
           "lastWinner": "Ricciardo",
           "date": "2019-04-14",
           "times": {
-            "firstPractice": "2019-04-12 03:00:00Z",
-            "secondPractice": "2019-04-12 07:00:00Z",
-            "thirdPractice": "2019-04-13 04:00:00Z",
-            "qualifying": "2019-04-13 07:00:00Z",
-            "race": "2019-04-14 07:10:00Z"
+            "firstPractice": "2019-04-12 02:00:00Z",
+            "secondPractice": "2019-04-12 06:00:00Z",
+            "thirdPractice": "2019-04-13 03:00:00Z",
+            "qualifying": "2019-04-13 06:00:00Z",
+            "race": "2019-04-14 06:10:00Z"
           }
         },
         {
@@ -88,11 +88,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-04-28",
           "times": {
-            "firstPractice": "2019-04-26 10:00:00Z",
-            "secondPractice": "2019-04-26 14:00:00Z",
-            "thirdPractice": "2019-04-27 11:00:00Z",
-            "qualifying": "2019-04-27 14:00:00Z",
-            "race": "2019-04-28 13:10:00Z"
+            "firstPractice": "2019-04-26 09:00:00Z",
+            "secondPractice": "2019-04-26 13:00:00Z",
+            "thirdPractice": "2019-04-27 10:00:00Z",
+            "qualifying": "2019-04-27 13:00:00Z",
+            "race": "2019-04-28 12:10:00Z"
           }
         },
         {
@@ -111,11 +111,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-05-12",
           "times": {
-            "firstPractice": "2019-05-10 10:00:00Z",
-            "secondPractice": "2019-05-10 14:00:00Z",
-            "thirdPractice": "2019-05-11 11:00:00Z",
-            "qualifying": "2019-05-11 14:00:00Z",
-            "race": "2019-05-12 14:10:00Z"
+            "firstPractice": "2019-05-10 09:00:00Z",
+            "secondPractice": "2019-05-10 13:00:00Z",
+            "thirdPractice": "2019-05-11 10:00:00Z",
+            "qualifying": "2019-05-11 13:00:00Z",
+            "race": "2019-05-12 13:10:00Z"
           }
         },
         {
@@ -134,11 +134,11 @@
           "lastWinner": "Ricciardo",
           "date": "2019-05-26",
           "times": {
-            "firstPractice": "2019-05-23 10:00:00Z",
-            "secondPractice": "2019-05-23 14:00:00Z",
-            "thirdPractice": "2019-05-25 11:00:00Z",
-            "qualifying": "2019-05-25 14:00:00Z",
-            "race": "2019-05-26 14:10:00Z"
+            "firstPractice": "2019-05-23 09:00:00Z",
+            "secondPractice": "2019-05-23 13:00:00Z",
+            "thirdPractice": "2019-05-25 10:00:00Z",
+            "qualifying": "2019-05-25 13:00:00Z",
+            "race": "2019-05-26 13:10:00Z"
           }
         },
         {
@@ -157,11 +157,11 @@
           "lastWinner": "Vettel",
           "date": "2019-06-09",
           "times": {
-            "firstPractice": "2019-06-07 16:00:00Z",
-            "secondPractice": "2019-06-07 20:00:00Z",
-            "thirdPractice": "2019-06-08 17:00:00Z",
-            "qualifying": "2019-06-08 20:00:00Z",
-            "race": "2019-06-09 20:10:00Z"
+            "firstPractice": "2019-06-07 14:00:00Z",
+            "secondPractice": "2019-06-07 18:00:00Z",
+            "thirdPractice": "2019-06-08 15:00:00Z",
+            "qualifying": "2019-06-08 18:00:00Z",
+            "race": "2019-06-09 18:10:00Z"
           }
         },
         {
@@ -180,11 +180,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-06-23",
           "times": {
-            "firstPractice": "2019-06-21 10:00:00Z",
-            "secondPractice": "2019-06-21 14:00:00Z",
-            "thirdPractice": "2019-06-22 11:00:00Z",
-            "qualifying": "2019-06-22 14:00:00Z",
-            "race": "2019-06-23 14:10:00Z"
+            "firstPractice": "2019-06-21 09:00:00Z",
+            "secondPractice": "2019-06-21 13:00:00Z",
+            "thirdPractice": "2019-06-22 10:00:00Z",
+            "qualifying": "2019-06-22 13:00:00Z",
+            "race": "2019-06-23 13:10:00Z"
           }
         },
         {
@@ -203,11 +203,11 @@
           "lastWinner": "Verstappen",
           "date": "2019-06-30",
           "times": {
-            "firstPractice": "2019-06-28 10:00:00Z",
-            "secondPractice": "2019-06-28 14:00:00Z",
-            "thirdPractice": "2019-06-29 11:00:00Z",
-            "qualifying": "2019-06-29 14:00:00Z",
-            "race": "2019-06-30 14:10:00Z"
+            "firstPractice": "2019-06-28 09:00:00Z",
+            "secondPractice": "2019-06-28 13:00:00Z",
+            "thirdPractice": "2019-06-29 10:00:00Z",
+            "qualifying": "2019-06-29 13:00:00Z",
+            "race": "2019-06-30 13:10:00Z"
           }
         },
         {
@@ -226,11 +226,11 @@
           "lastWinner": "Vettel",
           "date": "2019-07-14",
           "times": {
-            "firstPractice": "2019-07-12 10:00:00Z",
-            "secondPractice": "2019-07-12 14:00:00Z",
-            "thirdPractice": "2019-07-13 11:00:00Z",
-            "qualifying": "2019-07-13 14:00:00Z",
-            "race": "2019-07-14 14:10:00Z"
+            "firstPractice": "2019-07-12 09:00:00Z",
+            "secondPractice": "2019-07-12 13:00:00Z",
+            "thirdPractice": "2019-07-13 10:00:00Z",
+            "qualifying": "2019-07-13 13:00:00Z",
+            "race": "2019-07-14 13:10:00Z"
           }
         },
         {
@@ -249,11 +249,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-07-28",
           "times": {
-            "firstPractice": "2019-07-26 10:00:00Z",
-            "secondPractice": "2019-07-26 14:00:00Z",
-            "thirdPractice": "2019-07-27 11:00:00Z",
-            "qualifying": "2019-07-27 14:00:00Z",
-            "race": "2019-07-28 14:10:00Z"
+            "firstPractice": "2019-07-26 09:00:00Z",
+            "secondPractice": "2019-07-26 13:00:00Z",
+            "thirdPractice": "2019-07-27 10:00:00Z",
+            "qualifying": "2019-07-27 13:00:00Z",
+            "race": "2019-07-28 13:10:00Z"
           }
         },
         {
@@ -272,11 +272,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-08-04",
           "times": {
-            "firstPractice": "2019-08-02 10:00:00Z",
-            "secondPractice": "2019-08-02 14:00:00Z",
-            "thirdPractice": "2019-08-03 11:00:00Z",
-            "qualifying": "2019-08-03 14:00:00Z",
-            "race": "2019-08-04 14:10:00Z"
+            "firstPractice": "2019-08-02 09:00:00Z",
+            "secondPractice": "2019-08-02 13:00:00Z",
+            "thirdPractice": "2019-08-03 10:00:00Z",
+            "qualifying": "2019-08-03 13:00:00Z",
+            "race": "2019-08-04 13:10:00Z"
           }
         },
         {
@@ -295,11 +295,11 @@
           "lastWinner": "Vettel",
           "date": "2019-09-01",
           "times": {
-            "firstPractice": "2019-08-30 10:00:00Z",
-            "secondPractice": "2019-08-30 14:00:00Z",
-            "thirdPractice": "2019-08-31 11:00:00Z",
-            "qualifying": "2019-08-31 14:00:00Z",
-            "race": "2019-09-01 14:10:00Z"
+            "firstPractice": "2019-08-30 09:00:00Z",
+            "secondPractice": "2019-08-30 13:00:00Z",
+            "thirdPractice": "2019-08-31 10:00:00Z",
+            "qualifying": "2019-08-31 13:00:00Z",
+            "race": "2019-09-01 13:10:00Z"
           }
         },
         {
@@ -318,11 +318,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-09-08",
           "times": {
-            "firstPractice": "2019-08-06 10:00:00Z",
-            "secondPractice": "2019-08-06 14:00:00Z",
-            "thirdPractice": "2019-09-07 11:00:00Z",
-            "qualifying": "2019-09-07 14:00:00Z",
-            "race": "2019-09-08 14:10:00Z"
+            "firstPractice": "2019-08-06 09:00:00Z",
+            "secondPractice": "2019-08-06 13:00:00Z",
+            "thirdPractice": "2019-09-07 10:00:00Z",
+            "qualifying": "2019-09-07 13:00:00Z",
+            "race": "2019-09-08 13:10:00Z"
           }
         },
         {
@@ -341,11 +341,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-09-2",
           "times": {
-            "firstPractice": "2019-09-20 09:30:00Z",
-            "secondPractice": "2019-09-20 13:30:00Z",
-            "thirdPractice": "2019-09-21 11:00:00Z",
-            "qualifying": "2019-09-21 14:00:00Z",
-            "race": "2019-09-22 13:10:00Z"
+            "firstPractice": "2019-09-20 08:30:00Z",
+            "secondPractice": "2019-09-20 12:30:00Z",
+            "thirdPractice": "2019-09-21 10:00:00Z",
+            "qualifying": "2019-09-21 13:00:00Z",
+            "race": "2019-09-22 12:10:00Z"
           }
         },
         {
@@ -364,11 +364,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-09-29",
           "times": {
-            "firstPractice": "2019-09-27 09:00:00Z",
-            "secondPractice": "2019-09-27 13:00:00Z",
-            "thirdPractice": "2019-09-28 10:00:00Z",
-            "qualifying": "2019-09-28 13:00:00Z",
-            "race": "2019-09-29 12:10:00Z"
+            "firstPractice": "2019-09-27 08:00:00Z",
+            "secondPractice": "2019-09-27 12:00:00Z",
+            "thirdPractice": "2019-09-28 09:00:00Z",
+            "qualifying": "2019-09-28 12:00:00Z",
+            "race": "2019-09-29 11:10:00Z"
           }
         },
         {
@@ -387,11 +387,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-10-13",
           "times": {
-            "firstPractice": "2019-10-11 02:00:00Z",
-            "secondPractice": "2019-10-11 06:00:00Z",
-            "thirdPractice": "2019-10-12 04:00:00Z",
-            "qualifying": "2019-10-12 07:00:00Z",
-            "race": "2019-10-13 06:10:00Z"
+            "firstPractice": "2019-10-11 01:00:00Z",
+            "secondPractice": "2019-10-11 05:00:00Z",
+            "thirdPractice": "2019-10-12 03:00:00Z",
+            "qualifying": "2019-10-12 06:00:00Z",
+            "race": "2019-10-13 05:10:00Z"
           }
         },
         {
@@ -456,11 +456,11 @@
           "lastWinner": "Hamilton",
           "date": "2019-11-17",
           "times": {
-            "firstPractice": "2019-11-15 12:00:00Z",
-            "secondPractice": "2019-11-15 18:00:00Z",
-            "thirdPractice": "2019-11-16 15:00:00Z",
-            "qualifying": "2019-11-16 18:00:00Z",
-            "race": "2019-11-17 18:10:00Z"
+            "firstPractice": "2019-11-15 11:00:00Z",
+            "secondPractice": "2019-11-15 17:00:00Z",
+            "thirdPractice": "2019-11-16 14:00:00Z",
+            "qualifying": "2019-11-16 17:00:00Z",
+            "race": "2019-11-17 17:10:00Z"
           }
         },
         {
